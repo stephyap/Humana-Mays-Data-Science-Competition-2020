@@ -1,12 +1,11 @@
 # Humana-Mays Data Science Competition
 
 # Predicting Medicare Members Most Likely Struggling with Transportation Issues
+Authors: Brian Bacik, Chiu-Feng Yap
 
-#### Authors: Brian Bacik, Chiu-Feng Yap
+#### Project Status: [Completed]
 
-#### -- Project Status: [Completed]
-
-#### -- Project Ranking: Top 50/276
+### Project Ranking: Top 50/276
 
 # Introduction
 
