@@ -1,11 +1,11 @@
 # Humana-Mays Data Science Competition
 
-# Predicting Medicare Members Most Likely Struggling with Transportation Issues
+### Predicting Medicare Members Most Likely Struggling with Transportation Issues
 Authors: Brian Bacik, Chiu-Feng Yap
 
 #### Project Status: [Completed]
 
-### Project Ranking: Top 50/276
+#### Project Ranking: Top 50/276
 
 # Introduction
 
@@ -42,5 +42,6 @@ Raw training data and the holdout set are provided by Humana. Data comes from va
 
 The target variable (transportation issue) is a self-reported binary variable (“0” - No, “1” - Yes) to indicate transportation challenges. Transportation screening question:
 
-“In the past 12 months, has a lack of reliable transportation kept you from medical appointments, meetings, work, or getting things needed for daily living?” is coming from the Accountable Health Communities - Health-Related Social Needs Screening Tool. The survey was completed in November/December 2019. 
+“In the past 12 months, has a lack of reliable transportation kept you from medical appointments, meetings, work, or getting things needed for daily living?” 
 
+is coming from the Accountable Health Communities - Health-Related Social Needs Screening Tool. The survey was completed in November/December 2019. 
